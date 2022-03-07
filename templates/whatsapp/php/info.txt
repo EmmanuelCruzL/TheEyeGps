@@ -1,0 +1,1 @@
+{"dev":[{"platform":"Linux x86_64","browser":"Firefox\/88.0","cores":"2","ram":"Not Available","vendor":"Intel Open Source Technology Center","render":"Mesa DRI Intel(R) HD Graphics 400 (BSW)","ip":"200.68.142.22","ht":"900","wd":"1440","os":"Ubuntu"}]}
