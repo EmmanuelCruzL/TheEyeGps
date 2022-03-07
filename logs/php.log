@@ -1,0 +1,49 @@
+[Wed Sep  8 18:37:07 2021] PHP 7.4.15 Development Server (http://0.0.0.0:8080) started
+[Wed Sep  8 18:37:10 2021] 127.0.0.1:60738 Accepted
+[Wed Sep  8 18:37:10 2021] 127.0.0.1:60738 [200]: (null) /index.html
+[Wed Sep  8 18:37:10 2021] 127.0.0.1:60738 Closing
+[Wed Sep  8 18:39:14 2021] 127.0.0.1:60746 Accepted
+[Wed Sep  8 18:39:14 2021] 127.0.0.1:60746 [200]: (null) /
+[Wed Sep  8 18:39:14 2021] 127.0.0.1:60746 Closing
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60752 Accepted
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60754 Accepted
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60754 [200]: (null) /js/info.js
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60752 [200]: (null) /js/location.js
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60754 Closing
+[Wed Sep  8 18:39:20 2021] 127.0.0.1:60752 Closing
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60760 Accepted
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60762 Accepted
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60762 [200]: (null) /css/Epf3I8GM5jv.css
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60760 [200]: (null) /css/s9hWiNS5894.css
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60762 Closing
+[Wed Sep  8 18:42:17 2021] 127.0.0.1:60760 Closing
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60768 Accepted
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60768 [200]: (null) /
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60768 Closing
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60772 Accepted
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60772 [200]: (null) /css/s9hWiNS5894.css
+[Wed Sep  8 18:48:38 2021] 127.0.0.1:60772 Closing
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60776 Accepted
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60776 [200]: (null) /css/Epf3I8GM5jv.css
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60776 Closing
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60782 Accepted
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60784 Accepted
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60784 [200]: (null) /js/location.js
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60784 Closing
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60782 [200]: (null) /js/info.js
+[Wed Sep  8 18:48:39 2021] 127.0.0.1:60782 Closing
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60790 Accepted
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60792 Accepted
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60790 [200]: (null) /images/Banco-Azteca-App-Gallery.png
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60790 Closing
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60792 [200]: (null) /images/-r3j-x8ZnM7.svg
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60792 Closing
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60796 Accepted
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60800 Accepted
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60796 [200]: (null) /images/rYZqPCBaG70.png
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60796 Closing
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60800 [200]: POST /php/info.php
+[Wed Sep  8 18:48:50 2021] 127.0.0.1:60800 Closing
+[Wed Sep  8 18:49:00 2021] 127.0.0.1:60804 Accepted
+[Wed Sep  8 18:49:00 2021] 127.0.0.1:60804 [200]: POST /php/result.php
+[Wed Sep  8 18:49:00 2021] 127.0.0.1:60804 Closing

@@ -1,0 +1,11 @@
+--2021-05-22 01:26:05--  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-74FGhlnGagwQLJYfQBXIAdu7Rm24TRwdGBzjQIs1wonH7v2oZb7ovcSla5JXmQfWFo
+Resolviendo encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)... 172.217.19.206
+Conectando con encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)[172.217.19.206]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 8795 (8.6K) [image/jpeg]
+Grabando a: “images?q=tbn:ANd9GcRb-74FGhlnGagwQLJYfQBXIAdu7Rm24TRwdGBzjQIs1wonH7v2oZb7ovcSla5JXmQfWFo”
+
+                     images?q=tbn:ANd9GcRb   0%[                                                                                      ]       0  --.-KB/s                                   images?q=tbn:ANd9GcRb-  89%[===========================================================================>          ]   7.69K  35.9KB/s               images?q=tbn:ANd9GcRb-74FGhlnGagwQLJYfQBXI 100%[=====================================================================================>]   8.59K  40.0KB/s    en 0.2s    
+
+2021-05-22 01:26:07 (40.0 KB/s) - “images?q=tbn:ANd9GcRb-74FGhlnGagwQLJYfQBXIAdu7Rm24TRwdGBzjQIs1wonH7v2oZb7ovcSla5JXmQfWFo” guardado [8795/8795]
+
