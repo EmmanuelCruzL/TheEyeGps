@@ -4,9 +4,6 @@
 
   <br>
 
-<p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-  </p>
 
 ###### <p align="center"> *MapEye*
 
@@ -15,18 +12,10 @@
 <p align="center"><img src="res/mapeye.png"></p>
 
 ###### <p align="center">Accurate GPS Location Tracker (Android, IOS, Windows phones.)
-<p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MapEye?style=social" ></a>
-  <a href="https://github.com/bhikandeshmukh/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
-  <a href="https://github.com/bhikandeshmukh/MapEye/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/MapEye?color=red&style=flat-square"></a>
-  <a href="https://github.com/bhikandeshmukh/MapEye/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/MapEye?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bhikandeshmukh/MapEye">
+
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
-###### <p align="center"> *You can check [Instagram](https://www.instagram.com/bhikan_deshmukh)✌*
+
 
 ## MAP EYE
 
